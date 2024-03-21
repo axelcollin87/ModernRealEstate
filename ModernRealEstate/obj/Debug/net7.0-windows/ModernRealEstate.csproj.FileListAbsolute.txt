@@ -1,0 +1,16 @@
+D:\Sparat från formattering\Prog\Csharp\ModernRealEstate\ModernRealEstate\bin\Debug\net7.0-windows\ModernRealEstate.exe
+D:\Sparat från formattering\Prog\Csharp\ModernRealEstate\ModernRealEstate\bin\Debug\net7.0-windows\ModernRealEstate.deps.json
+D:\Sparat från formattering\Prog\Csharp\ModernRealEstate\ModernRealEstate\bin\Debug\net7.0-windows\ModernRealEstate.runtimeconfig.json
+D:\Sparat från formattering\Prog\Csharp\ModernRealEstate\ModernRealEstate\bin\Debug\net7.0-windows\ModernRealEstate.dll
+D:\Sparat från formattering\Prog\Csharp\ModernRealEstate\ModernRealEstate\bin\Debug\net7.0-windows\ModernRealEstate.pdb
+D:\Sparat från formattering\Prog\Csharp\ModernRealEstate\ModernRealEstate\obj\Debug\net7.0-windows\ModernRealEstate.Form1.resources
+D:\Sparat från formattering\Prog\Csharp\ModernRealEstate\ModernRealEstate\obj\Debug\net7.0-windows\ModernRealEstate.csproj.GenerateResource.cache
+D:\Sparat från formattering\Prog\Csharp\ModernRealEstate\ModernRealEstate\obj\Debug\net7.0-windows\ModernRealEstate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sparat från formattering\Prog\Csharp\ModernRealEstate\ModernRealEstate\obj\Debug\net7.0-windows\ModernRealEstate.AssemblyInfoInputs.cache
+D:\Sparat från formattering\Prog\Csharp\ModernRealEstate\ModernRealEstate\obj\Debug\net7.0-windows\ModernRealEstate.AssemblyInfo.cs
+D:\Sparat från formattering\Prog\Csharp\ModernRealEstate\ModernRealEstate\obj\Debug\net7.0-windows\ModernRealEstate.csproj.CoreCompileInputs.cache
+D:\Sparat från formattering\Prog\Csharp\ModernRealEstate\ModernRealEstate\obj\Debug\net7.0-windows\ModernRealEstate.dll
+D:\Sparat från formattering\Prog\Csharp\ModernRealEstate\ModernRealEstate\obj\Debug\net7.0-windows\refint\ModernRealEstate.dll
+D:\Sparat från formattering\Prog\Csharp\ModernRealEstate\ModernRealEstate\obj\Debug\net7.0-windows\ModernRealEstate.pdb
+D:\Sparat från formattering\Prog\Csharp\ModernRealEstate\ModernRealEstate\obj\Debug\net7.0-windows\ModernRealEstate.genruntimeconfig.cache
+D:\Sparat från formattering\Prog\Csharp\ModernRealEstate\ModernRealEstate\obj\Debug\net7.0-windows\ref\ModernRealEstate.dll
